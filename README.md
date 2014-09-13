@@ -16,6 +16,7 @@ $('#content').redactor({
 
 ## TODO
 
+* [ ] Selection update
 * [ ] Settings
 * [ ] Translations
 * [ ] Error handling
